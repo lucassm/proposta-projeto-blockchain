@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+@import url('https://fonts.googleapis.com/css?family=Alegreya');
+
+pre {
+    font: 12px "Source Sans Pro", "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.markdown-body{
+  font-family: "Alegreya", "Helvetica Neue", Helvetica Neue, Helvetica, Arial, sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  overflow: hidden;
+  font-size: 22px;
+  line-height: 1.6;
+  word-wrap: break-word;
+  color: #404040;
+}
+
